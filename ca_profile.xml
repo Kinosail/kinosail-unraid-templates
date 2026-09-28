@@ -1,0 +1,5 @@
+<CommunityApplications>
+  <Profile>Kinosail Player streams your media. Kinosail Subtitles finds and saves subtitle files. Choose your existing media share during installation. Player needs read access. Subtitles needs write access. For support, visit https://github.com/Kinosail/kinosail/issues.</Profile>
+  <Icon>https://raw.githubusercontent.com/Kinosail/kinosail/main/apps/player/internal/server/static/icon-512.png</Icon>
+  <WebPage>https://kinosail.com/getting-started/platforms/</WebPage>
+</CommunityApplications>
